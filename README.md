@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: Coding, Computer Game, Learning Langueages 
+- ⚡ Fun fact: Coding, Computer Game, Learning Languages 
   
 
 <br/>  
