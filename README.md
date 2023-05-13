@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 100%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  alt="Coding" width="400"  align="center" style="width: 100%" />
 </div>  
   
 
@@ -87,18 +87,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JavokhirTursunboev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+ 
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JavokhirTursunboev&&style=flat-square" align="center" />
@@ -110,5 +102,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
