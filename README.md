@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on [Github Portfolio](https://github.com/JavokhirTursunboev/portfolio_react)  
   
 
-- 🌱 I’m currently learning Next.js TypeScrpript  Node.js  
+- 🌱 I’m currently learning Express.js  Node.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
