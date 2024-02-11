@@ -23,7 +23,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [Github Portfolio](https://github.com/JavokhirTursunboev/portfolio_react)  
+- 🔭 I’m currently working on [Github Portfolio](https://github.com/JavokhirTursunboev/adswift)  
   
 
 - 🌱 I’m currently learning Express.js  Node.js  
